@@ -1,3 +1,3 @@
-import concatArrays from './5-spread-operator.js';
+import uploadPhoto from './5-photo-reject';
 
-console.log(concatArrays(['a', 'b'], ['c', 'd'], 'Hello'));
+console.log(uploadPhoto('guillaume.jpg'));
